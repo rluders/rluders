@@ -14,9 +14,6 @@
   <a href="https://dev.to/rluders">
     <img src="https://img.shields.io/badge/Dev.to-Blog-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://instagram.com/rluders_">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
 </p>
 
 ---
