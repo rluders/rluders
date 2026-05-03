@@ -1,47 +1,113 @@
-<h1 align="center">Hi there! I'm Ricardo Lüders 👋</h1>
+<h1 align="center">⚡ Ricardo Lüders ⚡</h1>
+<h3 align="center">Principal Software Engineer • Distributed Systems • Clean Architecture</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardoluders/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://github.com/sponsors/rluders"><img src="https://img.shields.io/badge/-Sponsor-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="GitHub Sponsor"></a>
-  <a href="https://instagram.com/rluders_"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"></a>
-  <a href="https://medium.com/@rluders"><img src="https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"></a>
-  <a href="https://dev.to/rluders"><img src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" alt="Dev.to"></a>
-</p>
-
----
-
-### About Me
-I'm a **Principal Software Engineer** passionate about **Go**, **PHP**, and **Software Architecture**. I enjoy building resilient, scalable systems and sharing my journey through open-source contributions.
-
-- 🛠 Experienced in Go, PHP, and DevOps tools.
-- 📚 Constant learner exploring microservices, CI/CD, and software design.
-- 🐱 Cat lover and advocate for developer-friendly tools and clean architecture.
-
----
-
-### 💬 Ask me about:
-- Go, PHP, and architecture design
-- Microservices and scalability
-- DevOps, CI/CD, and automation
-
-### 💖 Support my Work
-If you enjoy my open-source projects, please consider sponsoring me to help keep my work going.
-
-<p align="center">
-  <a href="https://github.com/sponsors/rluders"><img src="https://img.shields.io/badge/-Sponsor%20Me-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" alt="Sponsor Me"></a>
-</p>
-
----
-
-<p align="center>
-  <a href="https://github.com/rluders">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rluders&show_icons=true&theme=radical" />
+  <a href="https://www.linkedin.com/in/ricardoluders/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/rluders">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rluders&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <a href="https://github.com/sponsors/rluders">
+    <img src="https://img.shields.io/badge/Sponsor-Support%20My%20Work-EA4AAA?logo=githubsponsors&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://medium.com/@rluders">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?logo=medium&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://dev.to/rluders">
+    <img src="https://img.shields.io/badge/Dev.to-Blog-0A0A0A?logo=devdotto&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://instagram.com/rluders_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-<p align="center">Thank you for visiting! Feel free to connect and collaborate!</p>
+## 🚀 About Me
+
+I design systems that **scale, fail gracefully, and stay maintainable**.
+
+* 🧠 Principal Engineer focused on architecture & distributed systems
+* ⚙️ Go & PHP specialist with strong DevOps background
+* 📐 Clean Architecture & pragmatic design
+* 🔁 Performance, reliability, simplicity
+
+## 🔥 What I'm Building Right Now
+
+* ⚡ Distributed systems at scale
+* 🧩 Developer tooling that reduces complexity
+* 🚨 Observability & reliability-first platforms
+
+## 🧪 Featured Projects
+
+### 🚢 Berth
+
+Modern terminal UI for managing Docker & Podman environments
+
+* 🖥 Interactive container management from the CLI
+* 🔍 Explore, inspect, and control your stack visually
+* ⚡ Built in Go with performance and usability in mind
+
+<p>
+  <a href="https://github.com/rluders/berth">
+    <img src="https://img.shields.io/badge/View%20Project-Berth-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
+### 🌐 HTTPSuite
+
+Idiomatic Go library for HTTP request handling in microservices
+
+* 🔍 Request parsing (JSON + params → structs)
+* ✅ Built-in validation with clean patterns
+* 📦 Standardized responses (RFC 7807 style)
+* 🧩 Framework-agnostic and modular
+
+<p>
+  <a href="https://github.com/rluders/httpsuite">
+    <img src="https://img.shields.io/badge/View%20Project-HTTPSuite-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
+### 🐤 Canery
+
+Lightweight authorization core for Go
+
+* 🔐 Subject–action–resource–scope model
+* 🧩 Flexible and composable by design
+* ⚡ Minimal, fast, and easy to integrate
+
+<p>
+  <a href="https://github.com/rluders/canery">
+    <img src="https://img.shields.io/badge/View%20Project-Canery-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rluders&theme=react-dark&hide_border=true" />
+</p>
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 🧠 Tech Stack
+
+Languages:
+  - Go
+  - PHP
+  - Python
+
+Architecture:
+  - Microservices
+  - Event-driven
+  - Clean Architecture
+  - DDD
+
+DevOps:
+  - Docker
+  - Kubernetes
+  - CI/CD
+  - Observability
