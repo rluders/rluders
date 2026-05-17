@@ -84,12 +84,6 @@ Lightweight authorization core for Go
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rluders&theme=react-dark&hide_border=true" />
 </p>
 
-## 🐍 Contribution Flow
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
 ## 🧠 Tech Stack
 
 Languages:
