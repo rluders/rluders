@@ -78,6 +78,20 @@ Lightweight authorization core for Go
   </a>
 </p>
 
+### 🛣️ Lane
+
+Unified lifecycle management for Go services
+
+* 🚀 Startup–health–shutdown orchestration
+* 🧩 Manage servers, workers, and schedulers together
+* ⚡ Minimal, reliable, and easy to integrate
+
+<p>
+  <a href="https://github.com/rluders/lane">
+    <img src="https://img.shields.io/badge/View%20Project-Lane-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+
 ## 🧠 Tech Stack
 
 Languages:
